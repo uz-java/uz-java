@@ -118,13 +118,3 @@ Hi, I'm Asliddin Tojaliyev!
     
 </p>
 
-
-### My Projects ✨:
-  
-<a href="https://github.com/uz-java/Online-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Online-shop&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/uz-java/Spring_mvc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
