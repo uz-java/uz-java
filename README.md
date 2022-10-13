@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Tojaliyev Asliddin!
+Hi, I'm Asliddin Tojaliyev!
 	<a href="https://github.com/uz-java" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
