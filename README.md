@@ -4,8 +4,9 @@ Hi, I'm Asliddin Tojaliyev!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-## 📖 About me
+
 <hr>
+## 📖 About me
 <pre>
 💻 I am a Java backend developer.
 📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
