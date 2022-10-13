@@ -5,8 +5,9 @@ Hi, I'm Asliddin Tojaliyev!
 	</a>
 </h1>
 
+### 📖 About me
+
 <hr>
-## 📖 About me
 <pre>
 💻 I am a Java backend developer.
 📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
