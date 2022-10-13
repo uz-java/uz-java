@@ -1,10 +1,9 @@
 
 <hr>
 <pre>
-💻 I am a self taught Full Stack Developer
-📚 I have a Bachelors in Cyber security from the University TUIT
+💻 I am a Java backend developer.
+📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C++
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/16weZ7pdQdy1-uHW-uLY4OQDECsUlzn_W/view" target="_blank">MY RESUME.</a>
