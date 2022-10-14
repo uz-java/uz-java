@@ -56,11 +56,11 @@ Hi, I'm Asliddin Tojaliyev!
 <p align="left"> 
 &emsp;
   <a href="https://spring.io/" target="_blank"> 
-     <img alt="Spring" src="http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white">
+     <img alt="Spring" src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=scikit-learn&logoColor=white">
    </a>
   &emsp; 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-   <img alt="Spring boot" src="http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white">
+   <img alt="Spring boot" src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
