@@ -121,7 +121,14 @@ Hi, I'm Asliddin Tojaliyev!
   </tbody>
 </table>
 
+
 <br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+
+<br>
+<br>
+
 ![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
