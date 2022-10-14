@@ -105,7 +105,6 @@ Hi, I'm Asliddin Tojaliyev!
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
 	
- <br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
