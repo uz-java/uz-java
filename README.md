@@ -4,11 +4,13 @@ Hi, I'm Asliddin Tojaliyev!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
+<h1 align="center">
+	<a href="https://github.com/uz-java" target="_self">
+		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+	</a>
+</h1>
 <br>
-<a target="_blank">
-  <img align="right"alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
-<br>
+
 
 ### 📖 About me
 
