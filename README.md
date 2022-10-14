@@ -21,7 +21,7 @@ Hi, I'm Asliddin Tojaliyev!
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C++
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/16weZ7pdQdy1-uHW-uLY4OQDECsUlzn_W/view" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/16weZ7pdQdy1-uHW-uLY4OQDECsUlzn_W/view" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -139,7 +139,7 @@ Hi, I'm Asliddin Tojaliyev!
 
 <img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/uz-java)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="white")](https://github.com/tanyagupta0201)
 
