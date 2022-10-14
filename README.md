@@ -55,12 +55,12 @@ Hi, I'm Asliddin Tojaliyev!
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <a href="https://spring.io/" target="_blank"> 
+     <img alt="Spring" src="http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white">
    </a>
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+   <img alt="Spring boot" src="http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white">
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
