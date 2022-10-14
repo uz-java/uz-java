@@ -53,27 +53,13 @@ Hi, I'm Asliddin Tojaliyev!
 </p>
 
 ### 👉 Frameworks
-<p align="left"> 
-&emsp;
-  <a href="https://spring.io/" target="_blank"> 
-     <img alt="Spring" src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-   <img alt="Spring boot" src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://projectreactor.io/" target="_blank">
-    <img alt="Project Reactor" src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
+<p>
+	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
+	<img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;
+<!-- 	<img src="" />&nbsp;&nbsp; -->
 </p>
 
 ### 👉 Databases & Cloud Hosting
