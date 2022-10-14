@@ -63,8 +63,8 @@ Hi, I'm Asliddin Tojaliyev!
    <img alt="Spring boot" src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <a href="https://projectreactor.io/" target="_blank">
+    <img alt="Project Reactor" src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white">
   </a> 
    &emsp;
   <a href="https://keras.io/" target="_blank"> 
