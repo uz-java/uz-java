@@ -130,5 +130,13 @@ Hi, I'm Asliddin Tojaliyev!
 </table>
 <br>
 
+ <summary>Github Stats of me:</summary>
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IsratIJK&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+  <br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsratIJK&layout=compact&theme=radical" width="350" height="250" ></a>
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="white")](https://github.com/uz-java)
 
