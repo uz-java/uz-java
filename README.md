@@ -137,7 +137,10 @@ Hi,I'm Asliddin Tojaliyev!
 
 </div>
 
+
 <h1 align="center">
+	
 	[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="white")](https://github.com/uz-java)
+	
 </h1>
 
