@@ -20,7 +20,7 @@
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="https://drive.google.com/file/d/16weZ7pdQdy1-uHW-uLY4OQDECsUlzn_W/view" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: this is <a href="https://drive.google.com/file/d/1tFN8AKSgciFapclCCQjA6_VzTxw435nH/view" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
