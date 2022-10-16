@@ -132,6 +132,10 @@ Hi,I'm Asliddin Tojaliyev!
 
 <!-- <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsratIJK&layout=compact&theme=radical" width="350" height="250" ></a> -->
+### :fire: My Github Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
