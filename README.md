@@ -1,5 +1,6 @@
 <h1 align="center">
-Hi, I'm Asliddin Tojaliyev!	
+Hi, I'm Asliddin Tojaliyev!
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typingsvg.herokuapp.com&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </h1>
 
 <h1 align="center">
