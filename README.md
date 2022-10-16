@@ -3,7 +3,7 @@ Hi, I'm Asliddin Tojaliyev!
 </h1>
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=  Welcome+to+my+GitHub+Profile!">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Asliddin Tojaliyev!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h1 align="center">
