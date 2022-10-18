@@ -130,12 +130,11 @@
 ### :fire: My Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
