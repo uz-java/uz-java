@@ -134,8 +134,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
