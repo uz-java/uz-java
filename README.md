@@ -114,7 +114,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/uz-java/Online-shop/tree/onlineShop"><b>Online-shop</b></a></td>
+      <td><a href="http://164.92.229.130:9090/"><b>Online-shop</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
