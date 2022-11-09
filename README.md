@@ -136,6 +136,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=react-dark&hide_border=true&area=true)
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=uz-java&theme=react-dark&hide_border=true&area=true)
 
 </div>
