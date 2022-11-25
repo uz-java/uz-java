@@ -20,7 +20,7 @@
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="http://164.92.229.130:9091/" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: this is <a href="http://172.105.218.56:9091/" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
