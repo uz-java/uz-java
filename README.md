@@ -136,9 +136,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=uz-java&theme=react-dark&hide_border=true&area=true"
-    alt="adam-pw" /></p>
-
 </div>
 
 <h1 align="center">
