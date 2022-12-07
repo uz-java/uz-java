@@ -135,6 +135,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en" alt="uz-java" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uz-java&show_icons=true&locale=en&layout=compact" alt="uz-java" /></p>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
     alt="adam-pw" /></p>
