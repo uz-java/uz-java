@@ -129,7 +129,6 @@
 
 ### :fire: My Github Stats :
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/uz-java/) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p>
 
@@ -138,15 +137,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uz-java&show_icons=true&locale=en&layout=compact" alt="uz-java" /></p>
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
-    alt="adam-pw" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000) -->
-
 </div>
 
-<h1 align="center">
+<div>
+     <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
 </h1>
-
-
+</div>
