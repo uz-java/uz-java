@@ -129,9 +129,11 @@
 
 ### :fire: My Github Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/uz-java/) -->
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en" alt="uz-java" /></p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
