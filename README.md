@@ -131,10 +131,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=dark&background=000000"
     alt="adam-pw" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000) -->
 
 </div>
 
