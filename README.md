@@ -127,7 +127,6 @@
 
 ### :fire: My Github Stats :
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en" alt="uz-java" /></p>
