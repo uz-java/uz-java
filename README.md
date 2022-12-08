@@ -127,7 +127,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?user=uz-java&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&include_all_commits=true&theme=blue white&count_private=true" alt="github stats">
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&locale=en" alt="uz-java" /></p> -->
 
