@@ -127,6 +127,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p>
 
+<p align="center">
+        <a href="https://github.com/uz-java/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+
 </div>
 
 
