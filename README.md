@@ -18,8 +18,8 @@
 📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="http://20.24.103.49:9091/" target="_blank">MY RESUME.</a>
+🌟 Main languages: Java, C/C++
+<!-- 🤔 I’m currently open for: this is <a href="http://20.24.103.49:9091/" target="_blank">MY RESUME.</a> -->
 </pre>
 <hr>
 
