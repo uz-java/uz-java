@@ -127,9 +127,10 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p> -->
 
+
    <p align="center">
           <a href="https://github.com/uz-java/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uz-java&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&theme=gruvbox&hide_border=true" />
           </a>
        </p>
