@@ -12,6 +12,7 @@
 
 
 
+
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Asliddin Tojaliyev!;Welcome+to+my+GitHub+Profile!">
 </h1>
