@@ -124,9 +124,6 @@
 
 ### :fire: My Github Stats :
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uz-java&" alt="uz-java" /></p> -->
-
-
    <p align="center">
           <a href="https://github.com/uz-java/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=uz-java&theme=gruvbox&hide_border=true" />
@@ -140,14 +137,16 @@
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
       
- <p align="center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uz-java&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+      
+<!--  <p align="center">
           <a href="https://github.com/uz-java/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uz-java&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uz-java&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
-        </p>
+        </p> -->
 
 </div>
 
